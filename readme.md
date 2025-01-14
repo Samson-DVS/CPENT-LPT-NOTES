@@ -41,7 +41,7 @@ Debug the binary and find memory vulnerabilities.
 - binwalk -e FileOne.bin  
 - cd _FileOne.bin.extracted  
 
-#**3. CTF Range**
+# **3. CTF Range**
 Goal: Compromise target machines and retrieve sensitive information.
 
 ## **Tools and Commands**
