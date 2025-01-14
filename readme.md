@@ -9,7 +9,7 @@ Identify active ports and services to locate the Domain Controller.
 
 **1.2 NBTSTAT for NetBIOS Enumeration**
 - Confirm the NetBIOS name and domain.
-- nbtstat -A 172.25.170.30
+- nbtstat -A 192.168.1.0
 
 **1.3 Hydra for Brute Force**
 Attempt brute force on RDP or SMB services to gain credentials.
